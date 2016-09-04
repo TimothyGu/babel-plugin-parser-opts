@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Pass arbitrary Babylon parser options to Babel",
   "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "prepublish": "babel -d lib src",
     "test": "babel-node test"
