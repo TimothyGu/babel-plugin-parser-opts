@@ -6,6 +6,9 @@ Pass arbitrary Babylon parser options to Babel.
 not expose all of Babylon's [options] to be changed by users. This plugin
 makes it possible to change all of these options.
 
+[![Build Status](https://img.shields.io/travis/TimothyGu/babel-plugin-parser-opts.svg)](https://travis-ci.org/TimothyGu/babel-plugin-parser-opts)
+[![npm](https://img.shields.io/npm/v/babel-plugin-parser-opts.svg)](https://www.npmjs.com/package/babel-plugin-parser-opts)
+
 [Babel]: https://github.com/babel/babel
 [Babylon]: https://github.com/babel/babylon
 [options]: https://github.com/babel/babylon#options
