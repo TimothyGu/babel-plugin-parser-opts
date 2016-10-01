@@ -1,3 +1,12 @@
+# Deprecated
+
+This module is deprecated. In Babel 6.16.0, an option `parserOpts` was added
+that does [the exact same thing][babel blog].
+
+[babel blog]: https://babeljs.io/blog/2016/09/28/6.16.0#new-feature
+
+----
+
 # babel-plugin-parser-opts
 
 Pass arbitrary Babylon parser options to Babel.
